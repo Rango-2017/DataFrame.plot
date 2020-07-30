@@ -1,0 +1,4 @@
+# pandas.DataFrame.plot
+数据分析工作日常需要使用不少的画图来做数据探索，尽管已经有matplolib/pychart/seaborn等优秀的第三方包，
+但是使用pandas进行统计分析后，使用dataframe的plot画图能快速生成所需图像做探索已经能满足分析需要，故
+在此对plot各功能进行研究探索
